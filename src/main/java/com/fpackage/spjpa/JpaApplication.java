@@ -1,13 +1,13 @@
-package com.fernandapackage.springjpaproject;
+package com.fpackage.spjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringjpaprojectApplication {
+public class JpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringjpaprojectApplication.class, args);
+		SpringApplication.run(JpaApplication.class, args);
 	}
 
 }
